@@ -1,6 +1,6 @@
 {
   "name": "random-lang",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Return a random language name.",
   "main": "index.js",
   "scripts": {
@@ -33,12 +33,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/random-lang.git"
+    "url": "git+https://github.com/mock-end/random-lang.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/random-lang/issues"
+    "url": "https://github.com/mock-end/random-lang/issues"
   },
-  "homepage": "https://github.com/bubkoo/random-lang#readme",
+  "homepage": "https://github.com/mock-end/random-lang#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
@@ -47,7 +47,7 @@
     "mocha": "^2.4.5"
   },
   "dependencies": {
-    "languages-list": "0.0.0",
-    "pick-some": "file:///Users/Johnny/Documents/github.bubkoo/pick-some"
+    "languages-list": "^1.0.0",
+    "pick-item": "^1.0.1"
   }
 }
