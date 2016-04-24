@@ -1,6 +1,6 @@
 {
   "name": "random-lang",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Return a random language name.",
   "main": "index.js",
   "scripts": {
@@ -13,18 +13,16 @@
   },
   "keywords": [
     "language",
-    "languages",
     "lang",
+    "languages",
+    "location",
     "random",
     "randomly",
-    "rand",
     "randomize",
-    "sampling",
-    "generator",
-    "generate",
-    "gen",
-    "pick",
-    "one"
+    "chance",
+    "test",
+    "dice",
+    "mock"
   ],
   "license": "MIT",
   "author": {
@@ -48,6 +46,6 @@
   },
   "dependencies": {
     "languages-list": "^1.0.0",
-    "pick-item": "^1.0.1"
+    "pick-item": "^1.0.3"
   }
 }
