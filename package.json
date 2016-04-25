@@ -1,6 +1,6 @@
 {
   "name": "random-lang",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Return a random language name.",
   "main": "index.js",
   "scripts": {
@@ -46,6 +46,6 @@
   },
   "dependencies": {
     "languages-list": "^1.0.0",
-    "pick-item": "^1.0.3"
+    "pick-item": "^1.0.4"
   }
 }

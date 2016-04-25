@@ -4,7 +4,7 @@ var expect    = require('chai').expect;
 var languages = require('languages-list');
 
 
-describe('random-tld: ', function () {
+describe('random-lang: ', function () {
 
   var randomLang = require('../../index');
 
